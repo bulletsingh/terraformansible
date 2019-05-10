@@ -1,0 +1,6 @@
+
+#Ignore folder name '.terraform'
+.terraform/
+
+#Ignore file variable.tf
+variables.tf
